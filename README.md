@@ -1,123 +1,138 @@
+<!-- Modern, professional README for Chandana-sk
+     - Removed GitHub activity widgets as requested
+     - Added two coding GIFs (one female coder + one gender-neutral coder)
+     - Polished layout, project cards, CTA, and color accents
+     - Keep it copy-paste ready for README.md
+-->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=4000&pause=1000&color=C57BFF&center=true&vCenter=true&width=900&height=80&lines=Hello+World!+👋;I'm+Chandana+S.;Cloud+%26+Full-Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A060FF&height=160&section=header&animation=fadeIn&text=Hi,+I'm+Chandana+S+👋&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C57BFF&height=180&section=header&text=Welcome+to+My+GitHub&fontSize=48&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=800&color=A060FF&center=true&vCenter=true&width=820&height=64&lines=Cloud+%26+Full-Stack+Developer+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://media.tenor.com/I99YJzWv_nsAAAAC/writing-code.gif" width="50">
-  About Me
-</h2>
+## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="85%"/>
-</p>
+Hello — I'm **Chandana S**, a Cloud & Full‑Stack Developer who enjoys building scalable, secure, and maintainable applications. I craft clean code, clear documentation, and production‑ready systems.
+
+- 🔭 Currently exploring **AWS**, **Linux**, and modern full‑stack patterns.
+- 💡 I love turning ideas into working products with attention to security and UX.
+- 🤝 Open to collaborations, mentorship, and interesting engineering challenges.
 
 <table>
 <tr>
 <td width="60%">
 
-🌟 **Cloud & Software Developer** building scalable, elegant real-world applications.  
-☁️ Exploring **AWS Cloud**, **Linux**, and **Full-Stack Development**.  
-💜 Passionate about clean UI/UX & transforming ideas into production-ready apps.  
-🤝 Open to collaborations, tech communities, innovative projects.  
-📚 Strong believer in **clean code, clear architecture & great documentation**.  
-
-**I focus on:**  
-- ✨ Writing clean, modular, reusable code  
-- ✨ Building intuitive, user-centric systems  
-- ✨ Continuous improvement & learning  
-- ✨ Delivering clarity, structure & quality  
+**I focus on:**
+- Writing clean, modular & reusable code
+- Building intuitive, user‑centric systems
+- Automated tests, CI/CD & reliable deployments
+- Continuous improvement and strong documentation
 
 </td>
-
 <td width="40%" align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/girl-coding.gif" width="280" alt="Girl Coding"/>
+  <!-- Primary coding GIF (female coder) -->
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/girl-coding.gif" width="260" alt="Girl Coding" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.12);"/>
 </td>
 </tr>
 </table>
 
 ---
 
+## 🛠️ Technologies & Skills
+
 <p align="center">
-  <img src="https://media.tenor.com/Zg5p7rXIGLQAAAAC/coding-girl.gif" width="350"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,aws,git,github,linux,vscode" />
+</p>
+
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), React Basics
+
+**Backend:** Python (Flask), Node.js (Basics)
+
+**Databases:** MySQL / relational fundamentals
+
+**Cloud & Tools:** AWS S3, EC2, IAM basics, Git, Docker (intro), VS Code
+
+---
+
+## ✨ Featured Projects
+
+> Add links, live demos, or screenshots for each project to make this section more powerful.
+
+### 🔐 Digital Time Capsule — *Time-locked encrypted storage*
+- AES-256 + RSA hybrid encryption, scheduled unlocks, OTP protection (Google Authenticator), S3 storage, PostgreSQL.
+- Tech: Python (Flask), PostgreSQL, AWS S3, pyotp, SQLAlchemy.
+
+### 📦 Project Two — *Short description*
+- What it does and key tech used.
+
+---
+
+## 📸 Visuals & Extras
+
+I removed the GitHub stats and streak widgets to keep the README sleek and focused. Below are two curated GIFs (one female coder and one gender‑neutral coder) for visual appeal.
+
+<p align="center">
+  <!-- Secondary coding GIF (working girl) -->
+  <img src="https://media.tenor.com/0W0m2xS21twAAAAC/working-girl.gif" width="300" alt="Working Girl" style="border-radius:10px; box-shadow: 0 8px 25px rgba(0,0,0,0.08); margin-right:18px;"/>
+
+  <!-- Gender-neutral coding GIF -->
+  <img src="https://media.tenor.com/BGQGk6N7QHcAAAAC/coding-computer.gif" width="300" alt="Person Coding" style="border-radius:10px; box-shadow: 0 8px 25px rgba(0,0,0,0.08);"/>
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://media.tenor.com/0W0m2xS21twAAAAC/working-girl.gif" width="50">
-  🛠️ Technologies & Skills
-</h2>
+## 🧭 How I Work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,linux" /><br>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
-</p>
-
-### ⚙️ Technical Proficiencies
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React Basics  
-- **Backend:** Python, Node.js (Basics)  
-- **Databases:** MySQL  
-- **Cloud:** AWS EC2, S3, IAM  
-- **Systems:** Linux Essentials  
-- **Tools:** Git, GitHub, VS Code  
-
-### 💼 Professional Skills
-- Strong **technical communication**  
-- **Project planning & execution**  
-- Team collaboration  
-- Always learning, innovating & improving  
+- Prefer incremental, testable changes and clear PR descriptions.
+- Emphasize security basics (least privilege, parameterized queries, secrets management in prod).
+- Document architecture decisions and add README + run instructions for every repo.
 
 ---
 
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="85%"/>
-</p>
+## ⚙️ Quick Start (Flask example)
+
+```bash
+# create venv
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+# install
+pip install -r requirements.txt
+
+# run
+export FLASK_APP=run.py
+flask run
+```
 
 ---
 
-<h2 align="center">
-  <img src="https://media.tenor.com/PYVAvFp8ZV0AAAAC/girl-laptop.gif" width="50">
-  🌐 Connect With Me
-</h2>
+## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandana-s-a87718271" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:Chandana99ks@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Chandana-sk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/chandana-s-a87718271" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:Chandana99ks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/Chandana-sk" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://media.tenor.com/1xVbZl2xS84AAAAC/idea-girl.gif" width="50">
-  💭 Developer's Mantra
-</h2>
+## ✅ Tips to Improve This README
+- Add screenshots or short GIF demos for each featured project (use /assets or repo Images folder).
+- Replace placeholders with repo links and live demos.
+- Add a short "How to contribute" with labels (good first issue, help wanted).
+- Consider a polished portfolio site (React + Tailwind) linked from the header.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Quote"/>
-</p>
+---
 
-<p align="center">
-  <em>“Code is like art — your logic is the brush, your mind is the canvas.”</em>
-</p>
+## 📝 License
 
-<p align="center">
-  <img src="https://media.tenor.com/3TgQXVc3kT0AAAAC/anime-cute.gif" width="250" />
-</p>
+This README is free to adapt — add your preferred license badge if needed.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C57BFF&height=120&section=footer&fontColor=ffffff"/>
-</p>
+---
+
+*Want me to insert your project links, screenshots, or change the color theme (teal / indigo / pink)? Tell me which and I’ll update it here.*
