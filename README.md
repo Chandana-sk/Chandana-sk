@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&height=80&lines=Hello+World!+👋+I'm+Chandana+S;Cloud+%26+Full-Stack+Developer;Passionate+Technologist+💻;Always+Building+%26+Learning+🚀" alt="Typing SVG" />
 </p>
@@ -105,4 +104,3 @@ I’m focused on:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
 </p>
-```
