@@ -15,9 +15,10 @@
   <span style="color:#D86CFF;"> About Me </span>
 </h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="500" />
-</div>
+<!-- GIF NEXT TO ABOUT ME -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="350" style="border-radius:15px; margin-bottom:10px;" />
+</p>
 
 <table>
 <tr>
@@ -135,17 +136,16 @@
 </h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" />
-</p>
-
-<p align="center">
-  <em>“Code is like art — your logic is the brush, your mind is the canvas.”</em>
+  <em>“Every great project begins with curiosity — and grows through consistency.”</em>
 </p>
 
 <p align="center">
   <img src="https://media.tenor.com/3TgQXVc3kT0AAAAC/anime-cute.gif" width="250" />
 </p>
 
+---
+
+<!-- WAVY FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D86CFF&height=120&section=footer&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=D86CFF&section=footer"/>
 </p>
