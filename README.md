@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td width="60%" style="border: 2px solid #D86CFF; border-radius: 12px; padding: 15px;">
+<td width="60%" style="border: 2px solid #D86CFF; border-radius: 12px; padding: 15px; background: rgba(216,108,255,0.06);">
 
 ✨ **Cloud & Software Developer** passionate about crafting elegant, scalable applications.  
 💜 Exploring **AWS**, **Linux**, **Frontend & Backend Dev**.  
@@ -37,8 +37,12 @@
 
 </td>
 
+<!-- RIGHT SIDE BOX WITH TWO GIFS -->
 <td width="40%" align="center">
-  <img src="https://i.pinimg.com/originals/4a/64/97/4a6497a136bcd4374c1c1ff717a8ba4d.gif" width="260" style="border-radius: 15px; border: 2px solid #D86CFF;" />
+  <img src="https://i.pinimg.com/originals/4a/64/97/4a6497a136bcd4374c1c1ff717a8ba4d.gif" width="260" style="border-radius: 15px; border: 2px solid #D86CFF; margin-bottom: 12px;" />
+  
+  <!-- NEW GIF ADDED HERE -->
+  <img src="https://media.tenor.com/3bTxZ4Hd6f0AAAAC/cute-girl.gif" width="260" style="border-radius: 15px; border: 2px solid #D86CFF;" />
 </td>
 </tr>
 </table>
