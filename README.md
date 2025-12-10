@@ -15,7 +15,7 @@
   <span style="color:#D86CFF;"> About Me </span>
 </h2>
 
-<!-- GIF NEXT TO ABOUT ME -->
+<!-- GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="350" style="border-radius:15px; margin-bottom:10px;" />
 </p>
@@ -24,10 +24,10 @@
 <tr>
 <td width="60%" style="border: 2px solid #D86CFF; border-radius: 12px; padding: 15px; background: rgba(216,108,255,0.06);">
 
-✨ **Cloud & Software Developer** passionate about crafting elegant, scalable applications.  
-💜 Exploring **AWS**, **Linux**, **Frontend & Backend Dev**.  
+✨ **Cloud & Software Developer** passionate about building elegant, scalable applications.  
+💜 Exploring **AWS**, **Linux**, **Frontend & Backend Development**.  
 🚀 Always creating, improving, and learning something new every day.  
-🤝 Open to collaborations, tech communities, and cool innovative projects.
+🤝 Open to collaborations, tech communities, and innovative projects.
 
 ### 💡 My Core Principles
 - Clean, modular, reusable code  
@@ -37,11 +37,8 @@
 
 </td>
 
-<!-- RIGHT SIDE BOX WITH TWO GIFS -->
 <td width="40%" align="center">
   <img src="https://i.pinimg.com/originals/4a/64/97/4a6497a136bcd4374c1c1ff717a8ba4d.gif" width="260" style="border-radius: 15px; border: 2px solid #D86CFF; margin-bottom: 12px;" />
-  
-  <!-- NEW GIF ADDED HERE -->
   <img src="https://media.tenor.com/3bTxZ4Hd6f0AAAAC/cute-girl.gif" width="260" style="border-radius: 15px; border: 2px solid #D86CFF;" />
 </td>
 </tr>
@@ -49,7 +46,6 @@
 
 ---
 
-<!-- NEON DIVIDER -->
 <div align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="90%">
 </div>
@@ -77,21 +73,19 @@
 - **Tools:** Git, GitHub, Postman, VS Code  
 
 ### 🌟 **Professional Traits**
-- Strong communication & teamwork  
-- Sharp problem-solving skills  
+- Excellent communication & teamwork  
+- Strong problem-solving mindset  
 - Organized planning & clean execution  
 - Curious, creative, consistent  
 
 ---
 
-<!-- NEON DIVIDER -->
 <div align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="90%">
 </div>
 
 ---
 
-<!-- MORE GIRL GIFS -->
 <h2 align="center">
   <img src="https://media.tenor.com/m8ZgOeS4JYYAAAAC/girl-glasses.gif" width="55">
   👩‍💻 Coding Vibes
@@ -105,7 +99,6 @@
 
 ---
 
-<!-- CONTACT -->
 <div align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="90%">
 </div>
@@ -129,7 +122,6 @@
 
 ---
 
-<!-- QUOTE -->
 <div align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="90%">
 </div>
@@ -149,7 +141,6 @@
 
 ---
 
-<!-- WAVY FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=D86CFF&section=footer"/>
 </p>
