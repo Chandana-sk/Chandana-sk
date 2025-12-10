@@ -1,3 +1,8 @@
+<!-- INTRO MOVING LINE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=900&color=BA55FF&center=true&vCenter=true&width=900&height=60&lines=Hi+There!+👋+This+is+Chandana;Cloud+%26+Full-Stack+Developer+✨;Welcome+to+My+GitHub+Universe+💜" />
+</p>
+
 <!-- NEON HEADING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=4000&pause=1000&color=D86CFF&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋+I'm+Chandana+S;Cloud+%26+Full-Stack+Developer;Thinker+%7C+Creator+%7C+Innovator;Always+Learning+%26+Building+💜" />
